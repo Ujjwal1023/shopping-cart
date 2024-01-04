@@ -1,0 +1,32 @@
+.allitems{
+  display: flex;
+  gap:0.8rem;
+  flex-wrap: wrap;
+}
+.product{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.product button{
+  width: 18rem;
+  background-color: black;
+  color: white;
+
+}
+.product img{
+  width: 17rem;
+  height: 18rem;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.navbar a{
+  font-size: 1.2rem;
+  text-decoration: none;
+  align-items: center;
+
+
+}
